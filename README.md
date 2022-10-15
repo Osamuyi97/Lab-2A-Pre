@@ -40,13 +40,14 @@ I followed 9.2.4
 Then in the Settings pane click on "Extensions" and then "CMake Tools
 I scrolled down to "Cmake: Configure Environment". Click on "Add Item" and set the PICO_SDK_PATH to be ..\..\pico-sdk as
  Close the Settings page and go to the File menu and click on "Open Folder" and navigate to pico-examples repo and click "Select Folder". Select "GCC for arm-none-eabi" for your compiler.
- 	![image](https://user-images.githubusercontent.com/114784563/195963993-eb0c9ada-e5fa-4c7f-a568-c6b83cdcebd4.png)
+ 	
 
 You will get another one of these 
-![image](https://user-images.githubusercontent.com/114784563/195964003-e9c1c240-47fe-40f0-a37b-2f57c6fef3cd.png)
+![image](https://user-images.githubusercontent.com/114784563/195964082-80e21b06-048b-4eeb-90e8-2dae68d9e0b0.png)
 
 After that you can drag your hello_usb.uf2 our RP2040 that will be boot mode 
-![image](https://user-images.githubusercontent.com/114784563/195964007-8c21adb9-c732-4d45-b560-aac8234c2103.png)
+
  
 
 Open up Putty (Serial) and this will be your outcome:
+![image](https://user-images.githubusercontent.com/114784563/195964007-8c21adb9-c732-4d45-b560-aac8234c2103.png)
