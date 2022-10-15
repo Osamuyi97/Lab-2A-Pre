@@ -1,5 +1,7 @@
+University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 1
 Osamuyi Uwadia
-Windows 
+    https://www.linkedin.com/in/osamuyi-uwadia-a3038813b/
+Tested on: HPSpectre x360 Convertible 15- df1xxx 
 
 First Since I am using a Windows OS
 I had to use Getting started with Raspberry Pi Pico 9.2 at https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
